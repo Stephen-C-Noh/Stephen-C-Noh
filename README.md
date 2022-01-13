@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Stephen-C-Noh.
 - 👀 I’m interested in Web development.
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning react, css, and django Django.
+- 💞️ I’m looking to collaborate on everyone who would like to support each other.
 - 📫 How to reach me:
         by email(mailto:reach.out.to.stephen@gmail.com)
 
